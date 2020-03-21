@@ -17,11 +17,18 @@ progress reports are only from 2020-02-18 onward as thats when i started writing
 ---
 
 ## current issues that i still gotta fix
+- fix debuff icons
+
 - the `ExternalText` script doesn't wrap text in RPGMaker's `Window_Help` class that displays item/skill descriptions in the main menu. 
 	- `ExternalText` adds new methods in `Window_Base`, the superclass of `Window_Help`, though only involving removing escape characters.
 		- fix needs to be added that adds the `wrap_text` method and `too_wide?` check to `Window_Help` or `Window_Base`, taken from the `Game_Message` changes in the `ExternalText` script
 		- ive literally never coded in Ruby before so this has stumped me for more than a month now lmaooo
 	- unlike regular dialogue window keys supporting newlines in their files, `Window_Help` seems to completely ignore these, or adds an extra new line. since the help window is only 2 lines long, the second line in the text key doesn't show up at all in-game.
+
+## 2020-03-21
+- text conversion 35%
+- finish section 3, needs testing
+    - new dialogue, events, cutscenes, area redone
 
 ## 2020-03-19
 - text conversion 30%
