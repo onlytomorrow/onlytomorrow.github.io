@@ -16,6 +16,12 @@ progress reports are only from 2020-02-18 onward as thats when i started writing
 
 ---
 
+## 2020-03-22
+- text conversion 37%, begin reformatting section 4
+- fixed an issue where buff/debuff levels past 3 showed incorrect icons
+- updated some sprites
+- added new menu SE
+
 ## 2020-03-21
 - text conversion 35%
 - finish section 3, needs testing
