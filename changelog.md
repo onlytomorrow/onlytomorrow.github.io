@@ -28,7 +28,7 @@ progress reports are only from 2020-02-18 onward as thats when i started writing
     - updated grave/dealer events
 - updated box/barrel/sign sprites
 
-{% include image id="https://i.vgy.me/p4qivn.jpg" %}
+{% include image.html id="https://i.vgy.me/p4qivn.jpg" %}
 
 ## 2020-03-22
 - text conversion 37%, begin reformatting section 4
