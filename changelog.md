@@ -16,6 +16,20 @@ progress reports are only from 2020-02-18 onward as thats when i started writing
 
 ---
 
+## 2020-03-23
+- text conversion 40%
+- section 4 complete
+    - added enc to caves
+    - rewrite dialogue events
+    - fixed save points
+- sodatown changes
+    - updated dialogue
+    - reworked market shop
+    - updated grave/dealer events
+- updated box/barrel/sign sprites
+
+{% include image id="https://i.vgy.me/p4qivn.jpg" %}
+
 ## 2020-03-22
 - text conversion 37%, begin reformatting section 4
 - fixed an issue where buff/debuff levels past 3 showed incorrect icons

@@ -10,6 +10,8 @@ permalink: /chj2020/issues/
 
 ---
 
+- figure out a way to set the user to default to themselves rather than Jack when trying to consume an item
+
 - `ExternalText` doesn't wrap text in RPGMaker's `Window_Help` class that displays item/skill descriptions in the main menu. 
 	- `ExternalText` adds new methods in `Window_Base`, the superclass of `Window_Help`, though only involving removing escape characters.
 		- fix needs to be added that adds the `wrap_text` method and `too_wide?` check to `Window_Help` or `Window_Base`, taken from the `Game_Message` changes in the `ExternalText` script
