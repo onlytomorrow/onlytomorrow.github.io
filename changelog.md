@@ -16,6 +16,24 @@ progress reports are only from 2020-02-18 onward as thats when i started writing
 
 ---
 
+## 2020-03-24
+#### new sodatown: complete list of changes
+- new sidequest involving stoners and thieves
+    - new enemy and boss type
+    - new (temporary) party member
+        - cannot be controlled by player tho
+- new sidequest intro involving lots of meth
+    - new enemy type
+    - new key item
+    - more secrets
+- added new healing items
+- added new melee weapons
+- added new area (sidequest related)
+- sodatown now has actual npcs and houses
+
+![2020-03-24](https://i.vgy.me/n0XBYw.jpg)
+
+
 ## 2020-03-23
 - text conversion 40%
 - section 4 complete
@@ -28,7 +46,7 @@ progress reports are only from 2020-02-18 onward as thats when i started writing
     - updated grave/dealer events
 - updated box/barrel/sign sprites
 
-{% include image id="https://i.vgy.me/p4qivn.jpg" %}
+![2020-03-23](https://i.vgy.me/p4qivn.jpg)
 
 ## 2020-03-22
 - text conversion 37%, begin reformatting section 4

@@ -27,3 +27,8 @@ a {
 #size{
     width: 50%
 }
+
+.tomorrow {
+  background-color: #201F1D;
+  color: white;
+}
