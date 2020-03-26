@@ -16,7 +16,24 @@ progress reports are only from 2020-02-18 onward as thats when i started writing
 
 ---
 
-## 2020-03-24
+## [2020-03-25](https://i.vgy.me/KlJhCs.jpg)
+
+- text conversion 45%
+- now on section 5
+
+#### texture changes
+- made a new control info graphic
+- added more battle animations
+    - item consumption and limit breaks
+- more consistency on all icons' bg
+
+#### issue fixes
+- fixed sprite animation disappearing too fast ahead of screen fade out on switch activation
+- fixed bad fadeout of special lighting in some maps
+- fixed NPCs not completely following route into transfer event
+
+
+## [2020-03-24](https://i.vgy.me/n0XBYw.jpg)
 #### new sodatown: complete list of changes
 - new sidequest involving stoners and thieves
     - new enemy and boss type
@@ -31,10 +48,7 @@ progress reports are only from 2020-02-18 onward as thats when i started writing
 - added new area (sidequest related)
 - sodatown now has actual npcs and houses
 
-![2020-03-24](https://i.vgy.me/n0XBYw.jpg)
-
-
-## 2020-03-23
+## [2020-03-23](https://i.vgy.me/p4qivn.jpg)
 - text conversion 40%
 - section 4 complete
     - added enc to caves
@@ -45,8 +59,6 @@ progress reports are only from 2020-02-18 onward as thats when i started writing
     - reworked market shop
     - updated grave/dealer events
 - updated box/barrel/sign sprites
-
-![2020-03-23](https://i.vgy.me/p4qivn.jpg)
 
 ## 2020-03-22
 - text conversion 37%, begin reformatting section 4
