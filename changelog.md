@@ -16,6 +16,35 @@ progress reports are only from 2020-02-18 onward as thats when i started writing
 
 ---
 
+## 2020-03-27
+
+- text conversion 65%
+
+#### texture changes
+
+- new bot sprite
+- building tilesets for region 2
+- new state icons
+- edited some battler sprites
+
+#### misc changes
+
+- changed all shop buildings' counter to be straight ahead of the door
+- add [Yanfly's Shop Options](https://yanflychannel.wordpress.com/rmvxa/menu-scripts/ace-shop-options/) and [Hime's Shop Manager](http://himeworks.com/2013/02/shop-manager/) to improve the s h o p p i n g    e x p e r i e n c e
+    - new shop layout, removed the extra choice box in wep shop
+    - can now equip wep/armour at the shop window
+
+#### fixes
+
+- band-aid fix for descriptions involving variables and newline code rather than actually trying to edit the script lol
+- fixed NPCs not always walking into transfer event in the same way as the player
+- a bunch of other stuff that doesnt matter to you :)
+
+
+[♪](https://i.vgy.me/1BHDDC.jpg)
+
+---
+
 ## 2020-03-26 
 
 - text conversion 60%
