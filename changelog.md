@@ -6,15 +6,22 @@ permalink: /chj2020/
 
 # CHJ2020 top secret progress report
 this is the changelog for my game *the adventures of crackhead jack: overdose edition*, which hopefully i'll release on Steam mid 2020.
-you can play the original version of the game released in 2016 (and updated until 2017) [here](https://gamejolt.com/games/the-adventures-of-crackhead-jack/148303), but i don't think you should play it cuz its unbalanced garbage
+you can play the original version of the game released in may 2016 (and updated until aug 2017) [here](https://gamejolt.com/games/the-adventures-of-crackhead-jack/148303), but i don't think you should play it cuz its unbalanced garbage
 
-basically the game is an RPG parody where you play as a crackhead who is on a quest for more crack, some small youtubers have done lets plays of the old game too lol
+basically the game is an RPG parody where you play as a crackhead who is on a quest for a resupply of crack, which is surprisingly scarce for the game's setting.
 
 progress reports are only from 2020-02-18 onward as thats when i started writing down what i was doing -- OD edition really started development around november 2019
 
 [*issue tracker*]({% link issues.md %})
 
 ---
+
+## 2020-04-06
+
+- text conversion 70%
+- got rid of some old events
+- 3 new maps for sidequests
+- revamped town maps, boss fights
 
 ## 2020-03-27
 
