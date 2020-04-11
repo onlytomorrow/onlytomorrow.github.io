@@ -23,6 +23,8 @@ progress reports are only from 2020-02-18 onward as thats when i started writing
 - 3 new maps for sidequests
 - revamped town maps, boss fights
 
+---
+
 ## 2020-03-27
 
 - text conversion 65%
