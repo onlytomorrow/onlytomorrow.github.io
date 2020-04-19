@@ -27,6 +27,7 @@ progress reports are only from 2020-02-18 onward as thats when i started writing
 - fixed some text 
 - fixed broken event branches
 - fixed a lot of script stuff that doesn't matter to you
+
 ---
 
 ## 2020-04-06
