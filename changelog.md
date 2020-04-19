@@ -16,6 +16,19 @@ progress reports are only from 2020-02-18 onward as thats when i started writing
 
 ---
 
+## 2020-04-18
+
+- text conversion 85%
+- new map for route 11, 12
+- new laboratory map
+- new events for NPC buildings in the new region
+- rewrote the cult town section 
+- removed old maps with quests that wont be in the final game
+- fixed some text 
+- fixed broken event branches
+- fixed a lot of script stuff that doesn't matter to you
+---
+
 ## 2020-04-06
 
 - text conversion 70%
