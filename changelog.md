@@ -16,6 +16,15 @@ progress reports are only from 2020-02-18 onward as thats when i started writing
 
 ---
 
+## 2020-04-22
+
+- text conversion 94%
+- new map
+- fixed cutscenes
+- updated character portraits
+
+---
+
 ## 2020-04-21
 
 - text conversion 92%
