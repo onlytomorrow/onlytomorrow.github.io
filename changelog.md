@@ -16,6 +16,16 @@ progress reports are only from 2020-02-18 onward as thats when i started writing
 
 ---
 
+## 2020-04-24
+
+- text conversion 96%
+- juicy new animations and overlays that i spent way too much time trying to get to work
+- add [Hime's Counted Loops](http://himeworks.com/2013/03/counted-loops/) because VXA loops SUCK!!!!!!
+- redone cutscenes
+- redone quest
+
+---
+
 ## 2020-04-22
 
 - text conversion 94%
