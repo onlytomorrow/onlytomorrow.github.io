@@ -12,7 +12,26 @@ basically the game is an RPG parody where you play as a crackhead who is on a qu
 
 progress reports are only from 2020-02-18 onward as thats when i started writing down what i was doing -- OD edition really started development around november 2019
 
-[*issue tracker*]({% link issues.md %})
+(2020-04-27) converting old game dialogue to the new format - nearly complete now! on the final section of the main story.
+needs completing: new content, sidequests, music (honestly everything but the music could probably be finished in a few weeks)
+with that the playtesting will begin soon... and that will take also take a while.
+
+---
+
+## 2020-04-27
+
+- text conversion 99.5%
+- final section of the game now...
+(sidequests and new content havent even been close to completed, and music is not done)
+
+---
+
+## 2020-04-25
+
+- text conversion ... 99%? the rest is all new content now
+- fixed a shitton of issues with the animations and inevitable frame drops that came along with it
+- new character portraits background
+- SFX changes
 
 ---
 
