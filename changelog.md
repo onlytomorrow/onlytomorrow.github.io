@@ -18,6 +18,17 @@ with that the playtesting will begin soon... and that will take also take a whil
 
 ---
 
+## 2020-05-14
+
+- text conversion 100%!
+- sorry for the lack of updates. today marked the day of 4 years since the original crackhead jack was released onto GameJolt.
+- there's not much to write here, as they all are part of stuff i actually don't want to spoil. but it'll be done.
+- once the final cutscenes and events are finished, i'm going to playtest a bit, then start the steam application process to get wider playtesting done. 
+
+this took way longer than i expected, comes as no surprise honestly. this last part is the most boring part, and sooner or later i'll be back to binging nights working on this game again when playtesting starts....
+
+---
+
 ## 2020-04-27
 
 - text conversion 99.5%
