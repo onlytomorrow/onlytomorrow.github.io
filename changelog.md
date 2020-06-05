@@ -24,12 +24,16 @@ progress reports are only from 2020-02-18 onward as thats when i started writing
 - rewrite some le cringe dialogue
 - outlined battle animations in white because its hard to look at in certain battlebacks
 
+---
+
 ## 2020-06-03
 
 #### fixes
 - bad character sprite at teleport cutscene
 - wrong fade in for CFE
 - bad death sprite
+
+---
 
 ## 2020-06-02
 
@@ -41,6 +45,8 @@ progress reports are only from 2020-02-18 onward as thats when i started writing
 - bad sprite switching for TA death event
 - one too many button presses after a boss message
 - bad market sprite
+
+---
 
 ## 2020-06-01
 
@@ -56,6 +62,8 @@ progress reports are only from 2020-02-18 onward as thats when i started writing
 - new BattleStart splash
 - added battleback for a boss
 
+---
+
 ## 2020-05-28
 
 - steam progress.
@@ -67,6 +75,8 @@ progress reports are only from 2020-02-18 onward as thats when i started writing
 
 #### changes
 - renamed some enemies
+
+---
 
 ## 2020-05-25
 
@@ -82,24 +92,34 @@ progress reports are only from 2020-02-18 onward as thats when i started writing
 - getting currency term is now consistent across a bunch of dialogue
 - renamed some enemies and bosses
 
+---
+
 ## 2020-05-23
 
 - removed Hime's Counted Loops because of save incompatibility mid-loop
 - have to make a new save pack now because of it...
+
+---
 
 ## 2020-05-22
 
 - steam store progress
 - continued final cutscene scripting
 
+---
+
 ## 2020-05-21
 
 - added a new story cutscene after one of the early bosses
+
+---
 
 ## 2020-05-15
 
 - set up move routes and fixed some bad tiles
 - removed all unused sound files (game is now ~90mb atm)
+
+---
 
 ## 2020-05-14
 
