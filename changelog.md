@@ -5,18 +5,101 @@ permalink: /chj2020/
 ---
 
 # CHJ2020 top secret progress report
-this is the changelog for my game *the adventures of crackhead jack: overdose edition*, which hopefully i'll release on Steam mid 2020.
+this is the changelog for my game *the adventures of crackhead jack: overdose edition*, which hopefully i'll release on Steam Q3 2020.
 you can play the original version of the game released in may 2016 (and updated until aug 2017) [here](https://gamejolt.com/games/the-adventures-of-crackhead-jack/148303), but i don't think you should play it cuz its unbalanced garbage
 
 basically the game is an RPG parody where you play as a crackhead who is on a quest for a resupply of crack, which is surprisingly scarce for the game's setting.
 
 progress reports are only from 2020-02-18 onward as thats when i started writing down what i was doing -- OD edition really started development around november 2019
 
-(2020-04-27) converting old game dialogue to the new format - nearly complete now! on the final section of the main story.
-needs completing: new content, sidequests, music (honestly everything but the music could probably be finished in a few weeks)
-with that the playtesting will begin soon... and that will take also take a while.
-
 ---
+
+## 2020-06-04
+
+#### fixes
+- make entrance priority on map consistent across all maps
+- bad HTP tiling
+
+#### changes
+- rewrite some le cringe dialogue
+- outlined battle animations in white because its hard to look at in certain battlebacks
+
+## 2020-06-03
+
+#### fixes
+- bad character sprite at teleport cutscene
+- wrong fade in for CFE
+- bad death sprite
+
+## 2020-06-02
+
+#### fixes
+- updated bench at late game map
+- loop count error for bot teleport
+- missing SE crash (i missed a couple of events that still referred to old SE)
+- player can mess up a cutscene after it's done
+- bad sprite switching for TA death event
+- one too many button presses after a boss message
+- bad market sprite
+
+## 2020-06-01
+
+#### fixes
+- incorrect fade in from a certain transfer event
+- a messed up cutscene process order
+- incorrect face portrait for a certain character
+- characters not correctly leaving cutscene
+- don't show MAT / MDF in shop and item layouts
+
+#### changes
+- edited character sprites
+- new BattleStart splash
+- added battleback for a boss
+
+## 2020-05-28
+
+- steam progress.
+
+#### fixes
+- updated old bench event in fields
+- edited a boss end
+- removed bad alert balloons
+
+#### changes
+- renamed some enemies
+
+## 2020-05-25
+
+#### fixes
+- removed unused battler sprites
+- removed references to Hardmode
+- fixed a typo bug in a shop check
+- fixed an obstacle issue in inner tower after returning from F1 R1
+
+#### changes
+- added more bench locations
+- new tutorial (again)
+- getting currency term is now consistent across a bunch of dialogue
+- renamed some enemies and bosses
+
+## 2020-05-23
+
+- removed Hime's Counted Loops because of save incompatibility mid-loop
+- have to make a new save pack now because of it...
+
+## 2020-05-22
+
+- steam store progress
+- continued final cutscene scripting
+
+## 2020-05-21
+
+- added a new story cutscene after one of the early bosses
+
+## 2020-05-15
+
+- set up move routes and fixed some bad tiles
+- removed all unused sound files (game is now ~90mb atm)
 
 ## 2020-05-14
 
