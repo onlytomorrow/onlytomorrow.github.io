@@ -22,7 +22,9 @@ i gotta get a trailer done for this game really soon fuck
 
 #### lag hell
 up to this point, CHJ's largest map was the Highway to Paradise (HTP), but it still had less than ~150 events. but the game usually kept up, staying usually above 58 FPS, with some stutters because events. now with new and slick and cool animations the game dips to 30 FPS, especially on HTP. i can't use the nice looking things without low end pc's suffering, so my excuse will be "the technology just isn't there yet."
+
 for now we must deal with scrolling fog images that work well enough.
+
 with everything together (including the animations), not only was the scene not flowing well, but the game pretty much slowed to a crawl when the animations kicked in. RMVXA doesn't natively support walk n' talks because that definitely isn't something that developers want to do, so with scripts and processing move routes every frame, it looked weird from the beginning.
 
 - scrapped the final cutscenes i wrote because of ^
