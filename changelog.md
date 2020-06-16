@@ -6,11 +6,51 @@ permalink: /chj2020/
 
 # CHJ2020 top secret progress report
 this is the changelog for my game *the adventures of crackhead jack: overdose edition*, which hopefully i'll release on Steam Q3 2020.
-you can play the original version of the game released in may 2016 (and updated until aug 2017) [here](https://gamejolt.com/games/the-adventures-of-crackhead-jack/148303), but i don't think you should play it cuz its unbalanced garbage
+you can play the original version of the game (now with the subtitle *classic*) released in may 2016 (and updated until aug 2017) [here](https://gamejolt.com/games/the-adventures-of-crackhead-jack/148303), but i don't think you should play it cuz its unbalanced garbage
 
 basically the game is an RPG parody where you play as a crackhead who is on a quest for a resupply of crack, which is surprisingly scarce for the game's setting.
 
 progress reports are only from 2020-02-18 onward as thats when i started writing down what i was doing -- OD edition really started development around november 2019
+
+if there are no updates, either i didn't want to put an entire update just for 1 change (i try to at least get *something* done for the game every day), or i lied about what i just wrote and [didn't do anything for the game that day.](https://www.youtube.com/watch?v=PEmqJBcQ2lg)
+
+---
+
+## 2020-06-15
+
+i gotta get a trailer done for this game really soon fuck
+
+#### lag hell
+up to this point, CHJ's largest map was the Highway to Paradise (HTP), but it still had less than ~150 events. but the game usually kept up, staying usually above 58 FPS, with some stutters because events. now with new and slick and cool animations the game dips to 30 FPS, especially on HTP. i can't use the nice looking things without low end pc's suffering, so my excuse will be "the technology just isn't there yet."
+for now we must deal with scrolling fog images that work well enough.
+with everything together (including the animations), not only was the scene not flowing well, but the game pretty much slowed to a crawl when the animations kicked in. RMVXA doesn't natively support walk n' talks because that definitely isn't something that developers want to do, so with scripts and processing move routes every frame, it looked weird from the beginning.
+
+- scrapped the final cutscenes i wrote because of ^
+- move marble variable change to the marble event itself instead of running in a parallel process. i blame my 14 year old self.
+- split HTP into 6 sub maps. that pretty much fixed all the FPS issues on that map with the addition of the enemy encounters.
+
+#### other fixes
+- disabling Flashy Effects didn't stop the new animations, because conditional branches on parallel processes are jank
+- no other fixes, i spent 8 hours today trying to mess with common event logic figuring out the lag stuff
+
+---
+
+## 2020-06-12
+
+#### animation fixes
+- one overlay is too bright, added transparency
+- copy pasting script calls = inevitable typo and cause game crash haha
+- add looping tint adjust
+- cleaned up common events because it is not organized 
+
+---
+
+## 2020-06-07
+
+#### fixes
+- save information uses database map display name instead of reading from ExternalText
+- some characters are invisible in CF
+- a character is not loaded in the right spot from bench
 
 ---
 
