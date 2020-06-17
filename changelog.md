@@ -16,6 +16,21 @@ if there are no updates, either i didn't want to put an entire update just for 1
 
 ---
 
+## 2020-06-16
+
+#### changes
+- new character sprites for the final scenes
+
+#### fixes
+- fog Z layers crash the game after using psychs in battle (fogs can't be added to the battle scene)
+- the fix for the above issue also broke the Flashy Effects toggle! i love having to fix this toggle after every test run
+- missing outlines for an animation
+- typos in some text keys caused skipping of dialogue
+- Blunt Roller enemies were not holding blunts, but joints. tf?
+- ExternalText was storing old display names for unused maps. they eventually got replaced with different ones so they were showing the wrong name
+
+---
+
 ## 2020-06-15
 
 i gotta get a trailer done for this game really soon fuck
@@ -25,7 +40,7 @@ up to this point, CHJ's largest map was the Highway to Paradise (HTP), but it st
 
 for now we must deal with scrolling fog images that work well enough.
 
-with everything together (including the animations), not only was the scene not flowing well, but the game pretty much slowed to a crawl when the animations kicked in. RMVXA doesn't natively support walk n' talks because that definitely isn't something that developers want to do, so with scripts and processing move routes every frame, it looked weird from the beginning.
+with everything together (including the animations), not only was the scene not flowing well, but the game pretty much slowed to a crawl when the animations kicked in. RMVXA doesn't natively support walk n' talks because that definitely isn't something that developers want to do. so with scripts and processing move routes every frame, it looked weird from the beginning.
 
 - scrapped the final cutscenes i wrote because of ^
 - move marble variable change to the marble event itself instead of running in a parallel process. i blame my 14 year old self.
