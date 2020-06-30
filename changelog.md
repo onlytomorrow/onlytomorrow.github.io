@@ -5,7 +5,7 @@ permalink: /chj2020/
 ---
 
 # CHJ2020 top secret progress report
-this is the changelog for my game *the adventures of crackhead jack: overdose edition*, which hopefully i'll release on Steam Q3 2020.
+this is the changelog for my game [*the adventures of crackhead jack: overdose edition*](https://store.steampowered.com/app/1328500?comment=ots), coming soon on Steam.
 you can play the original version of the game (now with the subtitle *classic*) released in may 2016 (and updated until aug 2017) [here](https://gamejolt.com/games/the-adventures-of-crackhead-jack/148303), but i don't think you should play it cuz its unbalanced garbage
 
 basically the game is an RPG parody where you play as a crackhead who is on a quest for a resupply of crack, which is surprisingly scarce for the game's setting.
@@ -13,6 +13,89 @@ basically the game is an RPG parody where you play as a crackhead who is on a qu
 progress reports are only from 2020-02-18 onward as thats when i started writing down what i was doing -- OD edition really started development around november 2019
 
 if there are no updates, either i didn't want to put an entire update just for 1 change (i try to at least get *something* done for the game every day), or i lied about what i just wrote and [didn't do anything for the game that day.](https://www.youtube.com/watch?v=PEmqJBcQ2lg)
+
+---
+
+## 2020-06-26 - 2020-06-29
+
+finally started pre-alpha testing
+
+#### bug fixes
+- typo in harmless man text key
+- depths room 3 cans used old eventing
+- removed old sound files
+- missing SE at slots
+- enemies spawn under player, pop in
+- enemies don't initiate battle on forced respawn
+- respawn item didn't work at all
+- soda fields scene never starts
+
+#### changes
+- renamed Jack's limit break
+- reiterate what you are looking for in depths
+- add some Steam achievements
+- add explanations for a boss' attack pattern
+- new Game Over screen
+- added new music to some bosses and maps
+- added respawn item SE
+- new encounter SE
+- work on last bossfight (new animations and skills)
+
+---
+
+## 2020-06-26
+
+- Crackhead Jack is Coming Soon on Steam.
+
+---
+
+## 2020-06-25
+
+#### trailer work
+- rerecord Townsplace sections with updated tiles
+- sync with title music
+
+#### fixes
+- methropolis pub was using sodatown sprites
+- bazooka sprite has extra pixels
+- change some weapon flashes in animation
+
+---
+
+## 2020-06-24
+
+#### fixes
+- remove unused alert balloon at start
+- remove unused shop tutorial
+- wrong shop tier at knight's crossing
+- incorrect text keys in homeless escape
+
+---
+
+## 2020-06-20
+
+- fixed some frustrating issue about a black screen thats unerasable on load at a certain bench
+
+---
+
+## 2020-06-19
+
+#### fixes
+- once again fixing some cutscenes that refuse to work, that's all
+- no fade in loading CF bench
+- player not turning left in CA scene
+- adjust length of transport flash
+
+---
+
+## 2020-06-17
+
+#### changes
+- added battlebacks and some maps
+
+#### fixes
+- reorganized CF portal scene
+- polished some cutscenes
 
 ---
 
