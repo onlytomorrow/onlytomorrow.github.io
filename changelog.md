@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CHJ2020
+title: CHJ2020 dev log
 permalink: /chj2020/
 ---
 
@@ -94,7 +94,7 @@ if there are no updates, either i didn't want to put an entire update just for 1
 
 ---
 
-## 2020-06-26 - 2020-06-29
+## 2020-06-27 - 2020-06-29
 
 finally started pre-alpha testing
 
