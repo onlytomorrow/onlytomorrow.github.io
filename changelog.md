@@ -16,6 +16,84 @@ if there are no updates, either i didn't want to put an entire update just for 1
 
 ---
 
+## 2020-07-06
+
+#### changes
+- adjusted Item menu navigation
+
+#### fixes
+- player can't jab when no weapon is equipped
+
+---
+
+## 2020-07-05
+
+#### changes
+- new quests
+
+#### fixes
+- SE char is flipped
+- new Fizz Boss mix
+- new APE mix
+- add top hat to an enemy
+- nerf a certain boss healing
+- KC med is called Cave o Larpers
+- FG disappears after giving one item (from common event ssa=on)
+
+---
+
+## 2020-07-04
+
+#### changes
+- added proper notif for losing SH on escape
+- added events to new area
+
+---
+
+## 2020-07-03
+
+- new area maps
+- new enemy sprites
+- Fizz Boss theme complete (OST is at 50%!)
+
+---
+
+## 2020-07-01
+
+#### changes
+- final bossfight is done
+- buffed Vape Hit
+- Powdered Projectiles now has 15% stun chance
+- more endings...
+- new character in Paradise Caves
+- added map display names for all bench locations
+- reduced flashing effects on all animations
+- nerfed agents and some encounters at htp
+
+#### fixes
+- update MONKED bots after CFE unlock
+- teleport from Lab is bugged
+- CFE Lab teleport waits for KY before playing anim
+- HTPE fade in wrong
+- marble typos
+- some HTP events were still transferring to old
+
+---
+
+## 2020-06-30
+
+#### fixes
+- himoff dialogue text appears too long in hand-in scene
+- text typo at MRPS pub
+
+#### changes
+- APE's iron defense is too powerful, nerfed
+- APE's mercury shower is too powerful, nerfed
+- increase ninja exp payout
+- sell more accessories at stoner shack
+
+---
+
 ## 2020-06-26 - 2020-06-29
 
 finally started pre-alpha testing
