@@ -16,6 +16,20 @@ if there are no updates, either i didn't want to put an entire update just for 1
 
 ---
 
+## 2020-07-15
+
+- view all the changes at the [Steam Log]({{ site.url }}/stcl/)
+
+---
+
+## 2020-07-10
+
+#### fixes
+- player stuck when returning to cruise room
+- add varying dialogue for some Sodatown NPCs
+
+---
+
 ## 2020-07-06
 
 #### changes
