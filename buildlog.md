@@ -67,8 +67,8 @@ The Steam version is currently on **0.7.2.1-b**.
 
 ### Steam build descriptions
 
-2020-07-15: 0.7.2.1-b missed some typos
-2020-07-15: 0.7.2.1-a
+2020-07-15: 0.7.2.1-b missed some typos  
+2020-07-15: 0.7.2.1-a  
 2020-07-05: ST-200707A added Straight Edgeland and game is beatable  
 2020-06-30: ST-200706C  
 2020-06-29: ST-200706B  
