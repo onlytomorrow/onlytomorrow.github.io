@@ -6,11 +6,7 @@ permalink: /stcl/
 
 # Crackhead Jack Steam Version (CHJ-ST) change log
 
-<<<<<<< HEAD
 The Steam version is currently on **0.7.2.1-b**.
-=======
-The Steam version is currently on **0.7.2.1-a**.
->>>>>>> e535ca62b946c0c884cacde290f33c587370612b
 
 ### Milestones
 
