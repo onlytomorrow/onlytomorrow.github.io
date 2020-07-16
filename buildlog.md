@@ -6,7 +6,11 @@ permalink: /stcl/
 
 # Crackhead Jack Steam Version (CHJ-ST) change log
 
+<<<<<<< HEAD
 The Steam version is currently on **0.7.2.1-b**.
+=======
+The Steam version is currently on **0.7.2.1-a**.
+>>>>>>> e535ca62b946c0c884cacde290f33c587370612b
 
 ### Milestones
 
@@ -17,7 +21,11 @@ The Steam version is currently on **0.7.2.1-b**.
 
 ---
 
+<<<<<<< HEAD
 ### v 0.7.2.1-b (2020-07-15)
+=======
+### v 0.7.2.1-a (2020-07-15)
+>>>>>>> e535ca62b946c0c884cacde290f33c587370612b
 
 #### Minor
 
@@ -66,8 +74,12 @@ The Steam version is currently on **0.7.2.1-b**.
 
 ### Steam build descriptions
 
+<<<<<<< HEAD
 2020-07-15: 0.7.2.1-b missed some typos
 2020-07-15: 0.7.2.1-a
+=======
+2020-07-15: 0.7.2.1-a crack quest minor 2 rev 1  
+>>>>>>> e535ca62b946c0c884cacde290f33c587370612b
 2020-07-05: ST-200707A added Straight Edgeland and game is beatable  
 2020-06-30: ST-200706C  
 2020-06-29: ST-200706B  
