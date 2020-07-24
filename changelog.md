@@ -16,6 +16,87 @@ if there are no updates, either i didn't want to put an entire update just for 1
 
 ---
 
+## 2020-07-23
+
+#### changes
+- added slot machines to Strong Camp
+- added more steam achievements
+- started and completed yet another sidequest
+
+#### fixes
+- Old Man sprite had no shadow
+
+---
+
+## 2020-07-22
+
+#### changes
+- polished and finished the Meth Mainland new camp
+
+#### fixes
+- Methropolis sign had no text
+
+---
+
+## 2020-07-20
+
+#### changes
+- new Meth Mainland camp with an optional boss
+- added more NPCs in prev. side quest area
+
+---
+
+## 2020-07-19
+
+#### changes
+- remove SSA=on in Item Get events
+- moved some boss loot to after the battle is done
+- adjusted some icons
+
+#### fixes
+- finally fixed a problem where shop tiers weren't working based on location
+- some transfer events were still transfering to old locations
+
+---
+
+## 2020-07-18
+
+#### changes
+- rebalance MONKE enemies
+- added choice to load from Gameover
+- new sidequest added in Forests
+- new skills and special items
+
+#### fixes
+- some enemies weren't in the ExternalText db
+
+---
+
+## 2020-07-17
+
+#### changes
+- changed some Sodatown dialogue
+- sell more items at Sodatown/MRPS
+- added nag system
+- started work on MONKE sidequest
+
+#### fixes
+- KY started fight when re-entering area
+- Logic's portrait had reversed text
+
+---
+
+## 2020-07-16
+
+#### changes
+- changed some dialogue in a late game section, particularly some jokes, they're not funny.
+- did a bunch of nerfs and stuff after watching someone play through the game and get their ass kicked by a certain boss.
+
+#### fixes
+- fix a typo i followed on a spreadsheet
+
+---
+
 ## 2020-07-15
 
 - view all the changes at the [Steam Log]({{ site.url }}/stcl/)
