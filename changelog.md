@@ -16,6 +16,51 @@ if there are no updates, either i didn't want to put an entire update just for 1
 
 ---
 
+## 2020-08-04
+
+#### changes
+- set up new maps in database
+- reduced chances of stupidly difficult enemies at the starting area
+- more tileset creation
+
+---
+
+## 2020-08-01
+
+- setting up dialogue for the new sidequest. script's written
+- new tiles for this sidequest
+
+---
+
+## 2020-07-29
+
+- added five new weapons and skills
+- started a sidequest i'd been meaning to add since last year
+
+---
+
+## 2020-07-28
+
+#### changes
+- added Yanfly's Common Event shop
+- reduced chances of some enemies at the start of the game, shit's too hard lol
+- set up Pitheor's Weapons and Scum Skills
+
+#### fixes
+- cabin boxes have infinite items
+
+---
+
+## 2020-07-24
+
+#### changes
+- some dialogue in OD quest
+
+#### fixes
+- some cut off text in pity quest dialogue
+
+---
+
 ## 2020-07-23
 
 #### changes
