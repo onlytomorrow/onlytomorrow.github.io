@@ -5,7 +5,7 @@ permalink: /chj2020/
 ---
 
 # CHJ2020 top secret progress report
-this is the changelog for my game [*the adventures of crackhead jack: overdose edition*](https://store.steampowered.com/app/1328500?comment=ots), coming soon on Steam.
+this is the changelog for my game [*the adventures of crackhead jack: overdose edition*](https://store.steampowered.com/app/1328500?comment=ots), coming "soon" on Steam.
 you can play the original version of the game (now with the subtitle *classic*) released in may 2016 (and updated until aug 2017) [here](https://gamejolt.com/games/the-adventures-of-crackhead-jack/148303), but i don't think you should play it cuz its unbalanced garbage
 
 basically the game is an RPG parody where you play as a crackhead who is on a quest for a resupply of crack, which is surprisingly scarce for the game's setting.
@@ -13,6 +13,112 @@ basically the game is an RPG parody where you play as a crackhead who is on a qu
 progress reports are only from 2020-02-18 onward as thats when i started writing down what i was doing -- OD edition really started development around november 2019
 
 if there are no updates, either i didn't want to put an entire update just for 1 change (i try to at least get *something* done for the game every day), or i lied about what i just wrote and [didn't do anything for the game that day.](https://www.youtube.com/watch?v=PEmqJBcQ2lg)
+
+---
+
+## 2020-08-13
+
+#### continuing the delivery quest
+- introducing a new boss, special moveset, sprites
+- started eventing the first act of the quest
+
+---
+
+## 2020-08-12
+
+#### delivery quest stuff
+- formatting WIP dialogue to ExternalText...
+- new key items for quest
+
+---
+
+## 2020-08-11
+
+#### delivery quest: prep
+- quest start map w/ shop
+- new sprites for a bunch of new characters
+- tilesets for quest-specific maps
+- four new weapons
+
+---
+
+## 2020-08-10
+
+#### factory quest: post content
+- added a boss rush area
+
+#### other
+- added a new shop in the Inner Tower
+
+---
+
+## 2020-08-09
+
+#### more factory quest cleanup
+- add vignette in quest area
+- get rid of blue fogs for transition at fac ent
+- adjust timing in the burning room
+- added skills for special enemies
+
+#### fixes
+- embodiment sprite gap
+- dream didnt fade out correctly
+- player could leave after seeing map transition
+- same issue^ but after using key item
+- fog didnt fade out correctly
+- key item could be used outside of designated map
+
+---
+
+## 2020-08-08
+
+#### factory quest cleanup / fixing
+- shadow gap in battle sprite
+- fade out mistimed with screen fade
+- wrong r10 -> lot transfer
+- boss appearance is too fast
+
+#### special dream animation
+- all done with pictures. somehow easier than editing it in Vegas
+
+
+---
+
+## 2020-08-07
+
+#### factory quest: tunnels cont.
+- all dialogue formatted for ExternalText
+- map names formatted ^
+- all room tilesets completed
+- several scripted events completed
+
+---
+
+## 2020-08-06
+
+#### factory quest: b1/airlock
+- second disappearance event setup
+- airlock visual effects and door timings
+
+#### factory quest: ???
+- special battle event setup
+- obelisk/beacon event animations
+
+#### factory quest: tunnels
+- setup transfer events
+- rail car tile polish
+
+---
+
+## 2020-08-05
+
+#### factory quest: entrance events
+- fog setup in route 10 & entrance A
+- setup tar entrance and transition
+
+#### factory quest: f1
+- scaffolding disappearance events
+- new enemy/troops
 
 ---
 
