@@ -16,6 +16,23 @@ if there are no updates, either i didn't want to put an entire update just for 1
 
 ---
 
+## 2020-08-15
+
+#### delivery 1 polish
+- scripted graceful umbrella descent
+- added NPCs to gym
+
+#### delivery 2 progress
+- politician sprite
+- office map added to MF doom W
+- special voice acting
+
+#### fixes
+- NPC at monke village used a copy-pasted event
+- pith shop weapons weren't assigned weapon skills
+
+---
+
 ## 2020-08-13
 
 #### continuing the delivery quest
