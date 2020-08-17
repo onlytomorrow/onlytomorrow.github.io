@@ -16,6 +16,26 @@ if there are no updates, either i didn't want to put an entire update just for 1
 
 ---
 
+## 2020-08-16
+
+#### straight edge prep
+- set up flags and trackers for 0.9.0.0 straight edge run
+- add new items to accomodate straight edge players
+
+#### delivery 2 polish
+- scripted sequence completed
+- bossfight scripted
+- added new Burning state
+- added special RNG state event for quest reward
+
+#### fixes
+- no skill message for IC weps
+- enemy in Confused state trying weapon skill crashes the game
+- some dialogue too long in delivery 2
+- debrief no fade out post delivery 1
+
+---
+
 ## 2020-08-15
 
 #### delivery 1 polish
