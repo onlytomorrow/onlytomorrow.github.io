@@ -16,6 +16,17 @@ if there are no updates, either i didn't want to put an entire update just for 1
 
 ---
 
+## 2020-08-17
+
+#### delivery 3
+- dialogue formatted
+- edited RNG chances for plastic knife
+
+#### straight edge
+- fully implemented drug free items to make the run easier
+
+---
+
 ## 2020-08-16
 
 #### straight edge prep
