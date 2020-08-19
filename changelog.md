@@ -16,6 +16,18 @@ if there are no updates, either i didn't want to put an entire update just for 1
 
 ---
 
+## 2020-08-18
+
+#### delivery 3
+- prepped events, waiting for enemy details before continuing lol
+
+#### straight edge
+- added steam achievements for failing/beating game sober
+- double checked consume events for proper detection of failure
+- new icon for "non-alcoholic screwdriver"
+
+---
+
 ## 2020-08-17
 
 #### delivery 3
