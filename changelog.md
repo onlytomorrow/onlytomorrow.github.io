@@ -16,6 +16,30 @@ if there are no updates, either i didn't want to put an entire update just for 1
 
 ---
 
+## 2020-08-19
+
+the game's actually done? i think? not much left to do other than proofreading and testing a bunch of shit. oh yeah, also the music. but the game's core is done! only late by a couple months but that's always how it goes.
+
+#### steam 0.9.0.0 prep
+- added four new achievements
+
+#### delivery 3
+- temporary sprite, still waiting on designs
+- added another sprite for Jack on a special occasion
+- finished eventing
+
+#### changes
+- finished eventing secrets
+- added messages for when characters remain in some states
+- added "Cult Curse" state for Himoff's limit skill in case defense debuffs are nulled by an enemy
+
+#### fixes
+- typos in delivery 2
+- delivery reward typos
+- losing against the Wall would count as a win
+
+---
+
 ## 2020-08-18
 
 #### delivery 3
