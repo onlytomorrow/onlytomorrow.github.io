@@ -16,6 +16,21 @@ if there are no updates, either i didn't want to put an entire update just for 1
 
 ---
 
+## 2020-08-20
+
+actually not done, couple of things i missed that i'll address this weekend
+an angel from above has blessed this game with more music, so there is hope for this game coming out this year. i'm ecstatic.
+
+#### delivery quest cleanup
+- completed a gag at the start of the quest
+
+#### fixes
+- wrong char portrait at strong camp inn
+- more missed typos
+- missing map name at forests west
+
+---
+
 ## 2020-08-19
 
 the game's actually done? i think? not much left to do other than proofreading and testing a bunch of shit. oh yeah, also the music. but the game's core is done! only late by a couple months but that's always how it goes.
