@@ -16,6 +16,24 @@ if there are no updates, either i didn't want to put an entire update just for 1
 
 ---
 
+## 2020-08-21
+
+gonna start rewriting a lot of the story. turns out, the story is not good. who knew?
+
+#### steam
+- push 0.9.0.0-pre1 to testing branch :)
+
+#### delivery cleanup cont
+- added se for ascension
+- finished third delivery battle sprite
+- fixed janky sprite for jack's third delivery
+- added battleback for third delivery
+
+#### fixes
+- warner does not disappear after using bench
+
+---
+
 ## 2020-08-20
 
 actually not done, couple of things i missed that i'll address this weekend
