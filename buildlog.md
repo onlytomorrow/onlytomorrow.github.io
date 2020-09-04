@@ -6,7 +6,7 @@ permalink: /stcl/
 
 # Crackhead Jack Steam Version (CHJ-ST) change log
 
-The Steam version is currently on **0.7.3.0**. This log has spoilers for the game's story if that matters to you.
+The Steam version is currently on **0.9.0.3**. This log has spoilers for the game's story if that matters to you.
 
 ### Milestones
 
@@ -14,6 +14,90 @@ The Steam version is currently on **0.7.3.0**. This log has spoilers for the gam
 **0.8.0.0** - Side quests: add Factory and Bug Spray quests  
 **0.9.0.0** - Straight edge: add Straight Edge mode  
 **1.0.0.0** - Steam game ready: OST complete  
+
+---
+
+### v 0.9.0.3 (2020-08-29)
+
+#### Minor
+
+- Added extra tiles to show a passage in Meth Forests
+- Added an Equips shop in the Meth Mainland Cruise
+- Added a Stoner shop at Strong Camp
+- Reduced dodge chance of Shadows
+- Reduced chance of Shadows using Wrath
+- Increased chances of a certain boss to use attacks
+
+#### Fixes
+
+- Crash at Paradise Entrance
+- Saving after the cruise showed no map text
+- Checking a barrel before triggering a quest locked it
+- Armour in Sodatown Equips was buyable
+- Outdated skill text for A.P.E.
+- Outdated gravestones at Knight's Crossing
+- Outdated sign text at Knight's Crossing
+- A certain skill buffed the party instead of debuffing
+
+---
+
+### v 0.9.0.2 (2020-08-27)
+
+#### Minor
+
+- Added a new side quest past Methropolis
+- Added a new side quest in the Meth Forests
+- Added two new shops in the Inner Tower
+- Added five new weapons for purchase
+- Added another four secret weapons
+- Added five new skills for purchase
+- Added "Cult Curse" state for Himoff's limit skill, increases weakness to all attacks for 5 turns
+- Added messages for when characters remain in certain states
+- Added ability to sell items to drug dealers (only applies to new saves)
+- Loogie's Limit skill is now an HP drain
+- The Laboratory's switches are now all functional
+- You are now no longer locked in the tower before fighting its boss
+- Re-added Dollar Store SMG and Toy Turret back to Sodatown Equips
+- Updated some M.O.N.K.E. dialogue at the Cruise
+- Increased starting SH (5 -> 25)
+- Increased Pitied Individual's SH payout (2 -> 12)
+- Buff armour
+    - Thin Kit (4 DEF -> 10)
+    - Light Kit (14 DEF -> 19)
+    - Standard Kit (22 DEF -> 28)
+- Reduce prices of early game items
+    - Light Kit (50 SH -> 30)
+    - Standard Kit (90 SH -> 64)
+    - Baseball Bat (40 SH -> 30)
+    - Switchblade (55 SH -> 35)
+    - Shovel (65 SH -> 50)
+- Increased overall enemy count on Route 5
+- Reduced chances of encountering Baseball Player, Man with a Shovel, and Oppressed Individual on Route 5
+- Reduced chances of some early game enemies using powerful skills
+- Nerfed Greater Drunkard (28 ATK -> 18)
+- Nerfed Cleaning Man (30 ATK -> 19)
+- Nerfed Baseball Player (24 ATK -> 16), (12 DEF -> 9)
+- Nerfed Man with a Shovel (27 ATK -> 17), (10 DEF -> 8)
+- Nerfed Lower Class Individual (47 ATK -> 40), (37 DEF -> 32)
+- Nerfed Border Control (70 -> 50 ATK)
+- Adjusted Border Control's DEF debuff success rate (30% -> 96%)
+- Reduced stun chance of M.O.N.K.E. bananas (25% -> 12%)
+
+#### Fixes
+
+- New tile unintentionally showed up at an old map making it impassable
+- Saving at the Cruise bench didn't save map name
+- Loogie uses an outdated version of his signature skill
+- Inconsistency in usage of Methamphetamines
+- Secret event appeared too early
+- Weapons and Armour labels were buyable
+- A homeless dialogue line was cut off
+- Item chests at start were infinite
+- Dimebag icon sprite was 1 pixel off
+- Cleaning Man's right facing sprite had no moving legs
+- NPC at M.O.N.K.E. Village had reused dialogue
+- Losing against the Wall counted as a win
+- A bunch of typos
 
 ---
 

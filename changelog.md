@@ -16,6 +16,89 @@ if there are no updates, either i didn't want to put an entire update just for 1
 
 ---
 
+been slowly working on rewriting the game's story, so progress reports will be scarce from here on out. the game itself is "done", so not much to report there.
+
+---
+
+## 2020-08-30
+
+#### fixes
+- depths cans having a shared event meant that one SSA=on meant all of them had SSA=on
+
+#### rewrite
+- started the story rewrite :)
+
+---
+
+## 2020-08-29
+
+#### fixes
+- checking barrel before initiating its quest locks it
+- armour label at sodatown was buyable
+- APE skill typo
+- Meth Mainland entrance had no map name on save
+- a certain boss gave a buff instead of a debuff
+- said boss also never attacked the player...
+
+#### changes
+- rebalance shadows in the factory quest
+
+---
+
+## 2020-08-27
+
+#### fixes
+- accidental factory tile leftover in soda caves made it impassable
+- update APE's dialogue to proper language
+- update CHIMP skills to proper language
+- Cruise had no map name on save
+
+#### changes
+- Loogie's limit is now a massive drain
+- reduced stun chance of bananas (25% -> 12%)
+- nerfed Border Control ATK
+- adjusted DEF debuff success rate for Border Control
+- add bed heal func to all cruise beds
+
+---
+
+## 2020-08-26
+
+#### fixes
+- set player to face down after inn event
+- Loogie boss fight uses old move
+- jib buff is now usable outside of sodatown
+- have meth be usable again in menu
+- no longer locked in inner tower before its boss
+
+#### changes
+- nerfed various early game enemies
+- dropped prices of various early game gear
+
+---
+
+## 2020-08-25
+
+#### fixes
+- Weapons and Armour labels were buyable
+- save tracker appears way too early
+- Cleaning Man walking sprite facing right had no leg movement
+- Dimebag sprite circle was off -1 pixel
+- Text typos
+
+#### changes
+- increased starting SH
+- Drug Dealers now have Sell enabled
+- buffed armour
+	- thin: +4 DEF -> +10
+	- light: +14 DEF -> +19
+	- standard: +22 def -> +28
+- added more enemies in route 5
+- increased Pitied Ind.'s SH payout (2 -> 12)
+- nerfed Greater Drunkard and Cleaning Man
+
+---
+
 ## 2020-08-21
 
 gonna start rewriting a lot of the story. turns out, the story is not good. who knew?
