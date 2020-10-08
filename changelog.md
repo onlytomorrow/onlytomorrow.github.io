@@ -16,7 +16,7 @@ if there are no updates, either i didn't want to put an entire update just for 1
 
 ---
 
-been slowly working on rewriting the game's story, so progress reports will be scarce from here on out. the game itself is "done", so not much to report there.
+soon. real soon.
 
 ---
 

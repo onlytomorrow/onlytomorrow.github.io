@@ -6,14 +6,77 @@ permalink: /stcl/
 
 # Crackhead Jack Steam Version (CHJ-ST) change log
 
-The Steam version is currently on **0.9.0.3**. This log has spoilers for the game's story if that matters to you.
+The Steam version is currently on **0.9.1.2** (if all goes well, this is essentially 1.0.0.0-pre4). This log has spoilers for the game's story if that matters to you.
 
 ### Milestones
 
 **0.7.0.0** - Crack quest: main story playable from start to finish  
 **0.8.0.0** - Side quests: add Factory and Bug Spray quests  
 **0.9.0.0** - Straight edge: add Straight Edge mode  
-**1.0.0.0** - Steam game ready: OST complete  
+**1.0.0.0** - Steam game ready: OST complete
+
+---
+
+### v 0.9.1.2 (2020-10-07) 
+
+#### Minor 
+- Added two more troops to late-game areas
+- Added a Witness event for some late-game troops
+
+#### Fixes 
+- Obstacle M.O.N.K.Es don't disappear after completing related quest
+
+---
+### v 0.9.1.1 (2020-10-02)
+
+#### Minor
+
+- Cursor defaults to "Weapon" instead of "Limit" if available
+- When a Witness, the game no longer tells you that you gain XP
+- Added more credits
+- Added ambience to a sidequest area
+- Adjusted HP range for weedman7 to do his signature move
+- Edited dialogue when visiting Equips after ditching another shop
+- Increased reward of a secret quest
+
+#### Fixes
+
+- Terrance takes your gear after leaving your party
+- Old man's cane in standing sprite was a different colour
+- Losing to Wall, the Indestructible would never fade-in
+- Ability to walk into a non-walkable area in Sodatown
+
+---
+
+### v 0.9.1.0-rev4 (2020-10-01)
+
+#### Major
+
+- Rewrote the game's story
+- All music has been added to the game
+
+#### Minor
+
+- Added credits sequence
+- Added a new cutscene
+- New music
+    - Battle
+    - Miniboss Battle
+    - Straight Edgeland
+    - Cabin Intro
+- Readjusted volume of some BGM
+- Adjusted DEF debuff chance on Fizz Boss
+- Adjusted DEF stats of late-game enemies
+
+#### Fixes
+
+- Touching a Knowledgeable One event after first encounter replays the first encounter event
+- Incorrect fadeout on limited visibility sprite after leaving final area
+- Tracker never resets after using the Townsplace bench on subsequent tries
+
+#### Store
+
+- Updated shop screenshot to reflect new prices
 
 ---
 
