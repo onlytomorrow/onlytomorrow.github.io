@@ -6,7 +6,7 @@ permalink: /stcl/
 
 # Crackhead Jack Steam Version (CHJ-ST) change log
 
-The Steam version is currently on **0.9.1.2** (if all goes well, this is essentially 1.0.0.0-pre4). This log has spoilers for the game's story if that matters to you.
+The Steam version is currently on **1.0.0.0-rc3**. This log has spoilers for the game's story if that matters to you.
 
 ### Milestones
 
@@ -14,6 +14,31 @@ The Steam version is currently on **0.9.1.2** (if all goes well, this is essenti
 **0.8.0.0** - Side quests: add Factory and Bug Spray quests  
 **0.9.0.0** - Straight edge: add Straight Edge mode  
 **1.0.0.0** - Steam game ready: OST complete
+
+---
+
+### v 1.0.0.0-rc3 (2020-10-11)
+
+#### Minor
+- Added a control indicator at the title screen if a gamepad is plugged in
+- Added a star badge in the main menu when you beat the game
+- Removed unused database entries
+- Removed tag data from some sound effects
+
+#### Fixes
+- Added gamepad stick support in the Options menu
+- D-pad wasn't usable when changing buy quantity in shops
+
+---
+
+### v 1.0.0.0-rc1 (2020-10-08)
+
+#### Minor
+- Added two new achievements
+
+#### Fixes
+- Incorrect loop at end of battle BGM
+- Strength Camp and several sidequest areas had no BGM
 
 ---
 

@@ -5,7 +5,7 @@ permalink: /chj2020/
 ---
 
 # CHJ2020 top secret progress report
-this is the changelog for my game [*the adventures of crackhead jack: overdose edition*](https://store.steampowered.com/app/1328500?comment=ots), coming "soon" on Steam.
+this is the changelog for my game [*the adventures of crackhead jack: overdose edition*](https://store.steampowered.com/app/1328500?comment=ots), releasing on October 22, 2020 on Steam.
 you can play the original version of the game (now with the subtitle *classic*) released in may 2016 (and updated until aug 2017) [here](https://gamejolt.com/games/the-adventures-of-crackhead-jack/148303), but i don't think you should play it cuz its unbalanced garbage
 
 basically the game is an RPG parody where you play as a crackhead who is on a quest for a resupply of crack, which is surprisingly scarce for the game's setting.
@@ -16,7 +16,98 @@ if there are no updates, either i didn't want to put an entire update just for 1
 
 ---
 
-soon. real soon.
+## 2020-10-11
+
+game build officially got approved for release on steam. thus ends this progress log!
+
+---
+## 2020-10-10
+
+#### changes
+- added gamepad stick support in the options menu
+- trimmed out unused database entries
+- added star badge for beating the game
+- added extra state for the final boss
+
+#### fixes
+- dpad not usable when changing buy quantity in shops
+
+---
+
+## 2020-10-08
+
+#### changes
+- added bgm to strong camp / bruzzle quest areas
+- added achievements for clearing lab and factory
+
+#### fixes
+- battle bgm didn't end properly
+
+---
+
+## 2020-10-07
+
+#### changes
+- add lv52 cap for suicide event for MONKEs
+
+#### fixes
+- MONKEs didn't disappear after TMW sidequest
+
+---
+
+## 2020-10-02
+
+#### changes
+- re-balanced first boss
+- edited wasted-time messages for first timers at the Equips shop
+- added ambience to the Factory
+
+#### fixes
+- powdered projectiles had incorrect stun chance
+- the wall had no fadein if you lost
+- victory shows xp count when in witness state
+- old man cane sprite is diff. colour
+- unintended areas you could walk in
+
+---
+
+## 2020-10-01
+
+#### fixes
+- tracker never initiates after 2nd townsplace bench save
+- incorrect fadeout on limited vis. sprite after leaving CF
+
+---
+
+## 2020-09-30
+
+#### fixes
+- town music too loud after handing in k2 quest
+- taunt chance on fizz boss was unbalanced as fuck
+- old man did not appear in MF DOOM after leaving him in soda caves
+- after a boss phase, screen never faded in
+
+#### store
+- updated shop screenshot with new armour prices
+
+---
+
+## 2020-09-25
+
+#### changes
+- adjusted SE for some animations
+
+#### fixes
+- himoff fetch quest doesnt work
+- himoff event doesnt disappear when you get member
+
+
+---
+
+## 2020-09-09
+
+- added a real credits sequence
+- added cabin theme and battle theme
 
 ---
 
