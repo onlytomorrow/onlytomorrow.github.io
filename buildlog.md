@@ -6,7 +6,7 @@ permalink: /stcl/
 
 # Crackhead Jack Steam Version (CHJ-ST) change log
 
-The Steam version is currently on **1.0.0.0-rc3**. This log has spoilers for the game's story if that matters to you.
+The Steam version is currently on **1.0.0.3**. This log has spoilers for the game's story if that matters to you.
 
 ### Milestones
 
@@ -14,6 +14,124 @@ The Steam version is currently on **1.0.0.0-rc3**. This log has spoilers for the
 **0.8.0.0** - Side quests: add Factory and Bug Spray quests  
 **0.9.0.0** - Straight edge: add Straight Edge mode  
 **1.0.0.0** - Steam game ready: OST complete
+
+---
+
+### v 1.0.0.3 (2020-11-05)
+
+#### Fixes
+- Broken message width after reading a message before the first boss
+- Infinitely flip a switch in the Laboratory to get the achievement
+- Bruzzle's contract doesn't disappear if you say no
+- Pitheor's weapons and skills weren't buyable and caused a crash
+
+---
+
+### v 1.0.0.2-rev1 (2020-10-24)
+
+#### Minor
+- Added proper fullscreen support
+- Removed the ability to use F1 and F12 ingame
+- Reduced stun chance of Falkon from 40% to 15%
+- Reduced stun chance of Interference from 40% to 25%
+
+#### Fixes
+- Depths Cleaning Man encounters used old events
+- Soda Port Vigilantes used old events
+- Cruise Ninjas used old events
+
+---
+
+### v 1.0.0.1-rev2 (2020-10-22)
+
+#### Minor
+- Raised level cap to 99
+- Removed auto-win for late-game enemies
+- Added another hidden achievement: "Shadow Boxing"
+- Added a hint in the Laboratory Basement
+
+#### Fixes
+- Ooze was unusable
+- Auto-win events used the player version of Kill Yourself
+- Leftover debug message when using Plastic Knife
+- Multiple typos
+---
+
+### v 1.0.0.0-rev6 (2020-10-22)
+
+#### Minor
+- Readjusted XP payouts of Shadows
+- Increased level needed to auto-win Meth Mainland enemies to LV48 (from LV42)
+
+#### Fixes
+- Softlock if you get Terrance while in the Factory quest
+- Achievement "When the Sun Hits" was unobtainable
+- Achievement "Lost Boys" was unobtainable
+- Typo in Sodatown sign dialogue causes crash
+- Missing file for Boland Office
+
+---
+
+### v 1.0.0.0 (2020-10-21)
+
+*This is the first "release-ready" Steam build.*
+
+#### Minor
+- Renamed Sodatown Stoner Shack to Cummon Guy's Stoner Shack
+- Vandalised the Wall
+- Added unique BGM for Strong Camp
+- Added dialogue for if you hand in a Dimebag to the Stoner in Townsplace
+- Updated credits
+
+#### Fixes
+- Extra long dialogue getting cut off
+- Straight Edgeland autorun intro can run twice
+
+---
+
+### v 1.0.0.0-rc8 (2020-10-18)
+
+#### Minor
+- Added some extra early-game hints
+
+#### Fixes
+- Returning to Route 10 Lot after dream sequence without talking to NPCs locks player
+- Obstacle MONKEs still present at route 10 after completing TMW quest
+- Missing impassable tiles at MONKE village
+- Impossible to progress with STE-X36 in sidequest
+- Missing tiles for a cutscene
+- Cops not properly behaving if skipped in Soda Caves
+- Limited-visibility sprite doesn't erase when leaving laboratory basement through portal means
+- Wrong level cap for Man troop
+- Wrong portrait in some end-game cutscenes
+- Various typos
+
+---
+
+### v 1.0.0.0-rc6 (2020-10-17)
+
+#### Minor
+- Added BGM for a dream sequence
+- Slightly edited map path of Route 10
+
+#### Fixes
+- Slot machine lose sound was the victory sound
+- T0 slot machine had a 50% win chance instead of 14%
+- Factory NPC section was skippable
+- Player could leave Route 10/MRPS when "locked" in factory flag
+- Certain boss music was too loud
+- Misaligned enemy sprites for some troops
+
+---
+
+### v 1.0.0.0-rc4 (2020-10-14)
+
+#### Minor
+- Changed some early dialogue
+- Added missing scene segments at Meth Mainland
+
+#### Fixes
+- Bronk doesn't show up if player doesn't begin the contract quest
 
 ---
 
