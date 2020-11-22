@@ -55,6 +55,7 @@ The Steam version is currently on **1.0.0.3**. This log has spoilers for the gam
 - Auto-win events used the player version of Kill Yourself
 - Leftover debug message when using Plastic Knife
 - Multiple typos
+
 ---
 
 ### v 1.0.0.0-rev6 (2020-10-22)
