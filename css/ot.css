@@ -3,6 +3,8 @@ body{
 	max-width:725px;
 	line-height:1.1;
 	padding:10px;
+    background-color: #201F1D;
+    color: white;
 }
 nav img {
 	vertical-align: middle;
@@ -15,10 +17,10 @@ img.border{
 	padding-bottom: 12px;
 }
 a:link{
-	color:blue;
+	color:#6495ED;
 }
 a:visited{
-	color:blue;
+	color:#6495ED;
 }
 a {
 	color:inherit;
@@ -29,6 +31,6 @@ a {
 }
 
 .tomorrow {
-  background-color: #201F1D;
-  color: white;
+    background-color: white;
+    color: black;
 }
